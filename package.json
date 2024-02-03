@@ -1,0 +1,16 @@
+{
+	"description": "Javascript Toys",
+	"author": "Jaime Gensler",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"dev": "pnpm test",
+		"test": "vitest"
+	},
+	"keywords": [],
+	"devDependencies": {
+		"typescript": "^5.3.3",
+		"vite": "^4.3.9",
+		"vitest": "^0.29.8"
+	}
+}
